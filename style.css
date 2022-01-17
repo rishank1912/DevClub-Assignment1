@@ -1,0 +1,116 @@
+.box {
+    width: 1000px;
+    padding: 20px;
+    border: 1px solid rgb(243, 177, 208);
+    margin: 0;
+    border-radius: 5px;
+  }
+.oul {
+    width: 1120px;
+    padding: 20px;
+    border: 1px solid rgb(243, 177, 208);
+    margin: 0;
+  }
+.mask {
+      margin-left: 50px;
+      margin-right: 250px;
+  }
+.wash {
+      margin-left: 350px;
+      margin-right: 50px;
+  }
+.virus {
+      float: right;
+      margin-right: 8px;
+  }
+a {
+      text-decoration: none;
+      color: rgb(250, 195, 234);
+  }
+a:hover {
+      text-decoration: underline;
+  }
+body {
+    margin-top: initial;
+    margin-left: initial;
+    margin-bottom: initial;
+    margin-right: initial;
+}
+.bgp {
+      background-color: rgb(76, 7, 36);
+      color: white;
+  }
+.s15 {
+      font-size: 15pt;
+  }
+.s30p1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30pt;
+    color: rgb(243, 177, 208);
+    font-weight: 900;
+    margin-left: 70px;
+    text-align: left;
+}
+.s50p1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60pt;
+    font-weight: 900;
+    margin-left: 70px;
+}
+.s25p2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25pt;
+}
+.hp2 {
+    color: rgb(76, 7, 36);
+    font-size: 40pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.bgp2 {
+    background-color: rgb(230, 177, 206);
+}
+.tb {
+    border-collapse: collapse;
+}
+th , td {
+    font-size: 15pt;
+    border-color: rgb(76, 7, 36);
+    border-style: solid;
+    border-width: 7px;
+}
+.l {
+    color: rgb(76, 7, 36);
+}
+.gu {
+    text-align: right;
+    margin-right: 15px;
+}
+#rh {
+    background-color: seashell;
+    font-size: 25pt;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 25px;
+    border-color: seashell;
+    padding: 15px;
+    color: black;
+}
+#rh:hover {
+    background-color: rgb(243, 177, 208);
+    border-color: rgb(243, 177, 208);
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+.hp3 {
+    color: seashell;
+    font-size: 40pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.vc {
+    float: right;
+    margin-right: 10px;
+    border-radius: 5px;
+}
